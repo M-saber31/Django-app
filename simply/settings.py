@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-=-oi4z6!s_z7=951!x1tjur*^z$3i@_yyih=ied)#l$5kt)ivl'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
@@ -97,7 +97,7 @@ DATABASES = {
 
        'USER': 'saberdb',
 
-       'PASSWORD': 'q+Ww7#F2',
+       'PASSWORD': '',
 
        'HOST': 'database-1.cjqa6meq0shr.us-east-2.rds.amazonaws.com',
 
